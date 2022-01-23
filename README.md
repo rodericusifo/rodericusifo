@@ -6,7 +6,6 @@ A Back-End Developer who loves to explore and learn about web and mobile technol
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about back-end development or JavaScript
 - 📫 How to reach me: rodericus1999@gmail.com or [Linkedin](https://www.linkedin.com/in/rodericus-ifo-krista-120399)
-- ⚡ Fun fact: If I could live anywhere in the world, it would be Japan or Australia
 
 ### Github Statistic
 <p align="left">

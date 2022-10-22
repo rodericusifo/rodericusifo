@@ -4,7 +4,7 @@ A Back-End Developer who loves to explore and learn about web and mobile technol
 
 - 🔭 I’m currently working on back-end development
 - 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about back-end development or JavaScript
+- 💬 Feel free to ask me about back-end development
 - 📫 How to reach me: [Gmail](mailto:rodericus1999@gmail.com) or [Linkedin](https://www.linkedin.com/in/rodericus-ifo-krista-120399)
 
 ### Github Statistic
